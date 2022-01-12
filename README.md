@@ -26,9 +26,9 @@ npm install
 
 # Automated Scenarios
 
-Ensure adding an odd to betslip is successful
-Ensure information on betslip is correct
-Ensure total returns calculation on betslip is accurate 
+-Ensure adding an odd to betslip is successful
+-Ensure information on betslip is correct
+-Ensure total returns calculation on betslip is accurate 
 
 # Running the Sample Scenarios
 
